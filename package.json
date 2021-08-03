@@ -1,7 +1,6 @@
 {
     "name": "@vasanthdeveloper/utilities",
     "description": "A 📚 collection of JavaScript 🛠 utility functions.",
-    "version": "2.0.0",
     "license": "MIT",
     "private": true,
     "homepage": "https://github.com/vasanthdeveloper/utilities#readme",
@@ -22,6 +21,7 @@
         "eslint": "^7.32.0",
         "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-prettier": "^3.4.0",
+        "lerna": "^4.0.0",
         "prettier": "^2.3.2",
         "typescript": "^4.3.5"
     }
