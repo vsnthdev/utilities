@@ -1,0 +1,19 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "newLine": "LF",
+        "charset": "UTF-8",
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "target": "ES2015",
+        "incremental": true,
+        "declaration": true,
+        "alwaysStrict": true,
+        "module": "commonjs",
+        "declarationMap": true,
+        "removeComments": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "preserveConstEnums": true
+    }
+}
