@@ -1,5 +1,6 @@
 {
     "name": "@vasanthdeveloper/utilities-web",
+    "version": "0.0.0",
     "dependencies": {
         "@vasanthdeveloper/utilities-base": "*"
     }
