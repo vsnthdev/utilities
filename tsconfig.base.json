@@ -1,0 +1,18 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "charset": "UTF-8",
+        "declaration": true,
+        "declarationMap": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "newLine": "LF",
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "target": "ES2015",
+        "incremental": true,
+        "composite": true
+    }
+}
