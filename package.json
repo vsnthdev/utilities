@@ -18,7 +18,7 @@
         "dev": "nodemon",
         "build": "tsc -b --clean && tsc -b -v",
         "clean": "tsc -b --clean",
-        "bootstrap": "lerna bootstrap"
+        "postinstall": "lerna bootstrap"
     },
     "devDependencies": {
         "@types/node": "^16.4.10",
