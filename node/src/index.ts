@@ -4,4 +4,4 @@
  */
 
 export * as fs from './fs'
-// export * from '@vasanthdeveloper/utilities-base'
+export * from '@vasanthdeveloper/utilities-base'

@@ -16,7 +16,7 @@
     },
     "scripts": {
         "dev": "nodemon",
-        "build": "tsc -b -v",
+        "build": "tsc -b --clean && tsc -b -v",
         "clean": "tsc -b --clean",
         "bootstrap": "lerna bootstrap"
     },
