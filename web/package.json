@@ -1,6 +1,6 @@
 {
     "name": "@vasanthdeveloper/utilities-web",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "main": "dist/index.js",
     "publishConfig": {
         "access": "public"
@@ -9,6 +9,6 @@
         "build": "rm -rf dist tsconfig.tsbuildinfo && tsc"
     },
     "dependencies": {
-        "@vasanthdeveloper/utilities-base": "^0.2.0"
+        "@vasanthdeveloper/utilities-base": "^1.0.0"
     }
 }
