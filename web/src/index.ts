@@ -1,9 +1,12 @@
 /*
- *  Contains JavaScript utility functions that are suitable
- *  to be run inside a web browser.
+ *  Utility functions usable for web environments.
  *  Created On 03 August 2021
  */
 
-export default async () => {
-    console.log('utility functions for a browser environment')
-}
+// $() basically acts like a smaller replacement
+// to jQuery's $
+// see https://twitter.com/vasanthdevelop/status/1400836076109852675
+export const $ = s =>
+    (a => (a.length > 1 ? a : a[0]))(document.querySelectorAll(s))
+
+export * from '@vasanthdeveloper/utilities-base'

@@ -1,9 +1,9 @@
 /*
- *  Contains JavaScript utility functions that can be run independent
- *  of the environment.
+ *  Utility functions safely usable in any JavaScript environment.
  *  Created On 03 August 2021
  */
 
-export default async () => {
-    console.log('environment independent base')
-}
+export * as array from './array'
+export * as promise from './promise'
+export * as time from './time'
+export * as object from './object'
