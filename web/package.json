@@ -5,6 +5,6 @@
         "build": "rm -rf dist tsconfig.tsbuildinfo && tsc"
     },
     "dependencies": {
-        "@vasanthdeveloper/utilities-base": "*"
+        "@vasanthdeveloper/utilities-base": "^0.0.0"
     }
 }
