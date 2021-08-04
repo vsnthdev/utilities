@@ -1,0 +1,1 @@
+{"version":3,"file":"promise.d.ts","sourceRoot":"","sources":["../src/promise.ts"],"names":[],"mappings":"AAKA,MAAM,WAAW,iBAAiB;IAC9B,GAAG,CAAC,EAAE,GAAG,CAAA;IACT,QAAQ,CAAC,EAAE,GAAG,CAAA;CACjB;AAID,eAAO,MAAM,MAAM,oBACE,QAAQ,GAAG,CAAC,KAC9B,QAAQ,iBAAiB,CAc3B,CAAA"}
