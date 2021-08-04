@@ -15,8 +15,10 @@
         "url": "https://github.com/vasanthdeveloper/utilities.git"
     },
     "scripts": {
+        "dev": "nodemon",
         "build": "tsc -b -v",
-        "clean": "tsc -b --clean"
+        "clean": "tsc -b --clean",
+        "bootstrap": "lerna bootstrap"
     },
     "devDependencies": {
         "@types/node": "^16.4.10",
@@ -26,6 +28,7 @@
         "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-prettier": "^3.4.0",
         "lerna": "^4.0.0",
+        "nodemon": "^2.0.12",
         "prettier": "^2.3.2",
         "typescript": "^4.3.5"
     }

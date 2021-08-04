@@ -1,0 +1,9 @@
+{
+    "quiet": true,
+    "verbose": false,
+    "ext": "ts,js,json",
+    "exec": "tsc -b",
+    "watch": [
+        "."
+    ]
+}

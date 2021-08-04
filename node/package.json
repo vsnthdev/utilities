@@ -1,0 +1,14 @@
+{
+    "name": "@vasanthdeveloper/utilities-node",
+    "version": "0.2.0",
+    "main": "dist/index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "build": "rm -rf dist tsconfig.tsbuildinfo && tsc"
+    },
+    "dependencies": {
+        "@vasanthdeveloper/utilities-base": "^0.2.0"
+    }
+}
