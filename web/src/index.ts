@@ -5,7 +5,7 @@
 
 // $() basically acts like a smaller replacement
 // to jQuery's $
-// see https://twitter.com/vasanthdevelop/status/1400836076109852675
+// see https://twitter.com/vsnthdev/status/1400836076109852675
 export const $ = s =>
     (a => (a.length > 1 ? a : a[0]))(document.querySelectorAll(s))
 

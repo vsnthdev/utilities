@@ -3,8 +3,8 @@
     "description": "A 📚 collection of JavaScript 🛠 utility functions.",
     "license": "MIT",
     "private": true,
-    "homepage": "https://github.com/vasanthdeveloper/utilities#readme",
-    "bugs": "https://github.com/vasanthdeveloper/utilities/issues",
+    "homepage": "https://github.com/vsnthdev/utilities#readme",
+    "bugs": "https://github.com/vsnthdev/utilities/issues",
     "author": {
         "name": "Vasanth Developer",
         "email": "vasanth@vasanthdeveloper.com",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/vasanthdeveloper/utilities.git"
+        "url": "https://github.com/vsnthdev/utilities.git"
     },
     "scripts": {
         "dev": "nodemon",
