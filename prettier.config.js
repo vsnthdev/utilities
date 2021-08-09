@@ -1,5 +1,5 @@
 /*
- *  Prettier run control for @vasanthdeveloper/utilities monorepo.
+ *  Prettier run control for @vsnthdev/utilities monorepo.
  *  Created On 03 August 2021
  */
 

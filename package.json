@@ -1,5 +1,5 @@
 {
-    "name": "@vasanthdeveloper/utilities",
+    "name": "@vsnthdev/utilities",
     "description": "A 📚 collection of JavaScript 🛠 utility functions.",
     "license": "MIT",
     "private": true,
@@ -8,7 +8,7 @@
     "author": {
         "name": "Vasanth Developer",
         "email": "vasanth@vasanthdeveloper.com",
-        "url": "https://vasanth.tech"
+        "url": "https://vsnth.dev"
     },
     "repository": {
         "type": "git",

@@ -1,5 +1,5 @@
 {
-    "name": "@vasanthdeveloper/utilities-node",
+    "name": "@vsnthdev/utilities-node",
     "version": "1.0.1",
     "main": "dist/index.js",
     "publishConfig": {
@@ -9,6 +9,6 @@
         "build": "rm -rf dist tsconfig.tsbuildinfo && tsc"
     },
     "dependencies": {
-        "@vasanthdeveloper/utilities-base": "^1.0.0"
+        "@vsnthdev/utilities-base": "^1.0.0"
     }
 }

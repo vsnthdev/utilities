@@ -4,7 +4,7 @@
  */
 
 import fs from 'fs/promises'
-import { promise } from '@vasanthdeveloper/utilities-base'
+import { promise } from '@vsnthdev/utilities-base'
 
 export const exists = async (path): Promise<boolean> => {
     const exists = await promise.handle(fs.stat(path))

@@ -14,7 +14,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.exists = void 0;
 const promises_1 = __importDefault(require("fs/promises"));
-const utilities_base_1 = require("@vasanthdeveloper/utilities-base");
+const utilities_base_1 = require("@vsnthdev/utilities-base");
 const exists = (path) => __awaiter(void 0, void 0, void 0, function* () {
     const exists = yield utilities_base_1.promise.handle(promises_1.default.stat(path));
     if (exists.err) {

@@ -1,5 +1,5 @@
 {
-    "name": "@vasanthdeveloper/utilities-base",
+    "name": "@vsnthdev/utilities-base",
     "version": "1.0.0",
     "main": "dist/index.js",
     "publishConfig": {

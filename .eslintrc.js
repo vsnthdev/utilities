@@ -1,5 +1,5 @@
 /*
- *  ESLint run control for @vasanthdeveloper/utilities monorepo.
+ *  ESLint run control for @vsnthdev/utilities monorepo.
  *  Created On 03 August 2021
  */
 
