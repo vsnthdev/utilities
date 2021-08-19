@@ -24,4 +24,4 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.fs = void 0;
 exports.fs = __importStar(require("./fs"));
-__exportStar(require("@vasanthdeveloper/utilities-base"), exports);
+__exportStar(require("@vsnthdev/utilities-base"), exports);
